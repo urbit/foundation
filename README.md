@@ -29,11 +29,19 @@ backwards from.
 - [Get the pedagogy right](2022/q1/dx-pedagogy.md): The Professor is joining the
   team part-time while he wraps up in the world of academia, and is going to
   spend this quarter in research mode: both theoretical and applied.
-- [something something frontend development](TODO): `~tinnus-napbus` has been
-  building hands-on tutorials for fullstack Urbit development, and this quarter
-  will finish the series with a focus on the frontend.
-- [something something agent documentation](TODO): Something something docs app,
-  document gall agents.
+- [Improve the front-end developer experience](2022/q1/dx-frontend.md):
+  Developers should be able to learn full-stack Urbit development by completing
+  Hoon School, the Gall Guide and a new front-end integration guide. It should
+  also be possible for front-end developers to get started without learning any
+  Hoon.
+- [Facilitate widespread Gall agent documentation](2022/q1/dx-agent-docs.md):
+  Gall agents need to be documented, but it's not feasible to centralize all
+  agent documentation, much of which is produced by third parties, on the
+  urbit.org website.
+- [Develop a strong public image](2022/q1/comms-public-image.md): Develop a
+  clear brand for the Urbit Foundation and share its mission to a broader
+  audience through cohesive communications, strong community building, and
+  impactful creative projects.
 - [Make Urbit a destination for building new
   organizations](2022/q1/combine-destination.md): We believe that Urbit can be a
   great home for people who want to build things together. We need to find
