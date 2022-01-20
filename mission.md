@@ -33,5 +33,5 @@ can do is steward the right people to the project and get them engaged in
 meaningful contributions. With enough energy from smart, wise and motivated
 people, we might just be able to reinvent the computing stack.
 
-- `~wolref-podlex`
+Best, ~wolref-podlex
 

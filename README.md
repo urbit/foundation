@@ -26,9 +26,9 @@ backwards from.
 
 ### Q1
 
-- [Get the pedagogy right](2022/q1/dx-pedagogy.md): The Professor is joining the
-  team part-time while he wraps up in the world of academia, and is going to
-  spend this quarter in research mode: both theoretical and applied.
+- [Get the pedagogy right](2022/q1/dx-pedagogy.md): To get the pedagogy right, a
+  comprehensive plan must be made. We'll start by going into research mode: both
+  theoretical and applied.
 - [Improve the front-end developer experience](2022/q1/dx-frontend.md):
   Developers should be able to learn full-stack Urbit development by completing
   Hoon School, the Gall Guide and a new front-end integration guide. It should
