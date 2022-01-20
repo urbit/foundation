@@ -1,5 +1,7 @@
 # Get the pedagogy right
 
+[Back](/../../#Q1)
+
 **Owner**: `~lagrev-nocfep`
 
 Map out how documentation, courses like Hoon School, tutorials, and other
