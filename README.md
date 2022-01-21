@@ -25,7 +25,7 @@ depict where we'd like to be at the end of the year, and then, working backwards
 
 ### Q1
 
-- [Develop Urbit pedagogy](2022/q1/dx-pedagogy.md): To get the pedagogy right, a
+- [Get the pedagogy right](2022/q1/dx-pedagogy.md): To get the pedagogy right, a
   comprehensive plan must be made. We'll start by going into research mode: both
   theoretical and applied.
 - [Improve the front-end developer experience](2022/q1/dx-frontend.md):
