@@ -15,14 +15,13 @@ make our efforts known? We think it might result in serendipitous opportunities
 and decrease our communication overhead. It's also a great accountability
 mechanism. 
 
-Since we're a new organization that's for the "public good" of Urbit's
-development, perhaps we should try working in public? 
+Since we're a new organization working towards the public good of Urbit and its ongoing
+development, perhaps we, too, should try working in public.
 
 ## 2022
 
 You can read about our [vision for 2022 here](2022/vision.md). The idea is to
-depict where we'd like to be at the end of the year, and then use this to work
-backwards from.
+depict where we'd like to be at the end of the year, and then, working backwards, see what projects and efforts can get us to our goals. 
 
 ### Q1
 
@@ -44,15 +43,14 @@ backwards from.
   impactful creative projects.
 - [Make Urbit a destination for building new
   organizations](2022/q1/combine-destination.md): We believe that Urbit can be a
-  great home for people who want to build things together. We need to find
+  great home for people who want to build things together. We're developing 
   high-leverage ways to bring these groups onto Urbit and help them thrive.
 - [Bootstrap community engagement in
   grants](2022/q1/grants-community-engagement.md): Getting our contributor
-  community more closely involved in the grants program creates a win-win-win
-  scenario for contributors, organizations, and the Urbit Foundation.
+  community more closely involved in the grants program creates a virtuous cycle for contributors, organizations, and the Urbit Foundation.
 - [Facilitate better coordination across the
   Universe](2022/q1/exec-better-coordination.md): Urbit is now depended upon by
-  many organizations and communities, many of whom are also stepping up to take
+  several organizations and communities, many of whom are also stepping up to take
   more responsibility for Urbit. These entities need better ways of working
   together.
 - [Foster a healthy market for Urbit address
