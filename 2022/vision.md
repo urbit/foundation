@@ -5,7 +5,7 @@ of new opportunities for competent people to get involved in building Urbit, and
 have cemented the importance of our mission throughout the network.
 
 We accomplished this by substantially improving the developer experience,
-granting address space to a wide variety of builders, and supporting the
+granting address space to a wide variety of contributors, and supporting the
 formation of over a dozen new organizations.
 
 In more detail:
@@ -15,19 +15,18 @@ In more detail:
 In the past, learning to develop on Urbit was confusing and complicated. The
 development model for Urbit applications wasn't clearly articulated. Much of the
 documentation was out-of-date. While certain pieces of documentation were
-well-done and clear, it often wasn't clear where to find them and in what order
+well-done and comprehensive, it often wasn't clear where to find them and in what order
 to read them. To further compound things, this scattered documentation was
 pretty much the only option for learning.
 
-In 2022 we rectified these issues. It became clear how to get started with Urbit
-development and how to progress along different skill tracks, and the variety of
-methods for learning increased as well. Beyond simply learning the stack, the
+In 2022 we rectified these issues. We created a clear path for getting started with Urbit
+development with different skill tracks to progress along, through a variety of plentiful learning methods. Beyond simply learning the stack, the
 quality of the development experience itself was improved as well.
 
 Thanks to our efforts on developer experience, the volume and completion rate of
 grants improved beyond the levels seen in 2021 and enabled us to hit our
 targets. In spite of greatly increased demand for Urbit developers across Tlon,
-Uqbar, and the many new upstarts we funded through The Combine, open positions
+Uqbar, and the many new upstarts we incubated through The Combine, open positions
 remained competitive due to an even greater supply of aspiring Urbit developers.
 
 ### We scaled the grants program while improving quality
@@ -63,7 +62,7 @@ opportunities became plentiful and competitive.
 Grants became an even better pipeline into the ecosystem than they had been
 previously. We managed to sustain our conversion rate of 33% into a variety of
 full-time Urbit positions -- especially given the growth in openings generated
-by The Combine (several of which came from prior grant recipients).
+by The Combine (several of which originated from prior grant recipients).
 
 ### We supported entrepreneurs that added immense value to the ecosystem
 
@@ -78,7 +77,7 @@ indicators: at least two thirds of new organizations will have launched
 products, and another third of them will have completed larger fundraises, thus
 securing their ability to continue operations into the future.
 
-Throughout the year, Combine organizations:
+Throughout the year, Combine organizations accomplished the following:
 
 - Produced opportunities in the form of bounties, apprenticeships and jobs for
   other members of the Urbit community
