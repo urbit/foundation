@@ -24,3 +24,8 @@ when left unattended to for a long time, pile up and cause big annoyance.
   - When you mistype a path, it unlinks the terminal
   - This crashes and makes command history lost
   - This is the same behavior: https://github.com/urbit/urbit/issues/1519
+- [ ] Rotate irregular/regular/sugar syntax automatically (or alter rune arity) with keystroke.
+  - E.g. `%-` -> `%-()` -> `()` and back again.
+  - E.g. `[a b]` -> `:-`
+- [ ] Select rune, see children highlighted.
+  - Similarly, type rune and see slots for children.
