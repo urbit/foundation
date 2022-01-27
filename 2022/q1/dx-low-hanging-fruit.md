@@ -29,3 +29,6 @@ when left unattended to for a long time, pile up and cause big annoyance.
   - E.g. `[a b]` -> `:-`
 - [ ] Select rune, see children highlighted.
   - Similarly, type rune and see slots for children.
+- [ ] Jam noun in IDE
+- [ ] JSON schema -> reparser
+- [ ] Binary tree view of any Hoon structure
