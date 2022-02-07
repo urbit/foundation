@@ -33,6 +33,7 @@ resources support our goal of producing and supporting high-quality developers.
 - Interview Urbit developers. Gain insight into current practices and desiderata
   from existing Urbit developers.
 
-## Asks
+## Status
 
-- Interested in Hoon School 101? Email `neal at urbit dot org.`
+- Curriculum plan at https://github.com/sigilante/curriculum.
+- Hoon School Live planned for late February 2022; enroll at https://hooniversity.org/enroll.
