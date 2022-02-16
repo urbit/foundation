@@ -14,7 +14,7 @@ when left unattended to for a long time, pile up and cause big annoyance.
 
 ## Fruit
 
-- [ ] Syntax highlighting for Hoon on Github
+- [x] Syntax highlighting for Hoon on Github
   - Prerequisite is certain # of files/repositories
   - Then, submit PR to github/linquist repository
     - This is a grammar--if it works, you get highlighting and code percentages
