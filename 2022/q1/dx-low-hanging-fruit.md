@@ -32,3 +32,7 @@ when left unattended to for a long time, pile up and cause big annoyance.
 - [ ] Jam noun in IDE
 - [ ] JSON schema -> reparser
 - [ ] Binary tree view of any Hoon structure
+
+## Status
+
+- ~2022.3.4:  incorporating into product plan for Q2
