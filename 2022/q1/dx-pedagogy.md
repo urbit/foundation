@@ -36,4 +36,4 @@ resources support our goal of producing and supporting high-quality developers.
 ## Status
 
 - Curriculum plan at https://github.com/sigilante/curriculum.
-- Hoon School Live planned for late February 2022; enroll at https://hooniversity.org/enroll.
+- Hoon School Live ~2022.2 Cohort running February–May 2022
