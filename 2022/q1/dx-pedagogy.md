@@ -29,7 +29,7 @@ resources support our goal of producing and supporting high-quality developers.
   planning scheme to dissect the problem and construct the solution framework.
   - [Repo of curriculum planning](https://github.com/sigilante/curriculum)
 - Run Hoon 101 again later in Q1 2022. *"No lesson plan survives contact with
-  the classrom." - `~lagrev-nocfep`*
+  the classroom." - `~lagrev-nocfep`*
 - Interview Urbit developers. Gain insight into current practices and desiderata
   from existing Urbit developers.
 

@@ -21,7 +21,8 @@ development, perhaps we, too, should try working in public.
 ## 2022
 
 You can read about our [vision for 2022 here](2022/vision.md). The idea is to
-depict where we'd like to be at the end of the year, and then, working backwards, see what projects and efforts can get us to our goals. 
+depict where we'd like to be at the end of the year, and then, working
+backwards, see what projects and efforts can get us to our goals.
 
 ### Q1
 

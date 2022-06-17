@@ -19,8 +19,9 @@ well-done and comprehensive, it often wasn't clear where to find them and in wha
 to read them. To further compound things, this scattered documentation was
 pretty much the only option for learning.
 
-In 2022 we rectified these issues. We created a clear path for getting started with Urbit
-development with different skill tracks to progress along, through a variety of plentiful learning methods. Beyond simply learning the stack, the
+In 2022 we rectified these issues. We created a clear path for getting started
+with Urbit development with different skill tracks to progress along, through a
+variety of plentiful learning methods. Beyond simply learning the stack, the
 quality of the development experience itself was improved as well.
 
 Thanks to our efforts on developer experience, the volume and completion rate of

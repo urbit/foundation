@@ -8,9 +8,9 @@ Let's break that down:
 widely: producing content, hosting a local event, building an Urbit app, and
 contributing to the kernel are all examples of meaningful contributions.
 
-The Urbit **Universe** is the meta-community of communities that collaborate to build
-Urbit. These communities are on-network groups, companies, DAOs, local meetup
-groups, teams of grant workers, and lots in between. 
+The Urbit **Universe** is the meta-community of communities that collaborate to
+build Urbit. These communities are on-network groups, companies, DAOs, local
+meetup groups, teams of grant workers, and lots in between.
 
 The Urbit Universe is **thriving** when it's expanding in size, quality and
 variety at an increasing pace in a self-sustaining capacity.
